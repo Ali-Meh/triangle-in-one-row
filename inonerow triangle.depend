@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509882638 source:c:\users\dark_link\documents\codeblocks\inonerow triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
